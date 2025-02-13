@@ -1,0 +1,1185 @@
+h1{
+    background-color: rgb(255, 77, 0);
+    color: rgb(243, 239, 235);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+    text-align: center;
+    text-shadow: 2px 2px 10px black;
+}
+#m{
+    display: block;
+    border-radius: 10px;
+    background-color:brown;
+    color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-indent: 10px;
+    text-shadow: 2px 2px 10px black;
+}
+#d1{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d1 > img{
+    width: 80%;
+    height: 60%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+span{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn1{
+    color: rgb(251, 246, 246);
+    background-color:brown;
+    border:2px solid black;
+    align-items: center;
+    margin-left: 10px;
+}
+#btn1:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn2{
+    color: rgb(246, 242, 242);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn2:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+
+
+
+
+
+#d2{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d2 > img{
+    width: 80%;
+    height: 60%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span2{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn21{
+    color: rgb(237, 234, 234);
+    background-color:brown;
+    border:2px solid black;
+    align-items: center;
+    margin-left: 10px;
+}
+#btn21:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn22{
+    color: rgb(255, 253, 253);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn22:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+
+#d3{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d3 > img{
+    width: 80%;
+    height: 60%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span3{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn31{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+}
+#btn31:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn32{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn32:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+
+
+#d4{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d4 > img{
+    width: 80%;
+    height: 60%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span4{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn41{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+}
+#btn41:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn42{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn42:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+#d5{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d5 > img{
+    width: 80%;
+    height: 60%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span5{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn51{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+}
+#btn51:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn52{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn52:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+#d6{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d6 > img{
+    width: 80%;
+    height: 60%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn1{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+}
+#btn1:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn2{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn2:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+#d7{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d7 > img{
+    width: 80%;
+    height: 60%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p7{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span7{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn71{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+}
+#btn71:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn72{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn72:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+
+#d8{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d8 > img{
+    width: 80%;
+    height: 60%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p8{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span8{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn81{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+}
+#btn81:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn82{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn82:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+
+
+#d9{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d9 > img{
+    width: 80%;
+    height: 60%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p9{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span9{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn91{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+}
+#btn91:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn92{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn92:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+
+#d10{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d10 > img{
+    width: 80%;
+    height: 60%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p10{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span10{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn101{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+}
+#btn101:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn102{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn102:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#d11{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d11 > img{
+    width: 80%;
+    height: 60%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p10{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span10{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn101{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+}
+#btn101:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn102{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn102:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+#d12{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d12 > img{
+    width: 80%;
+    height: 50%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p12{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span12{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn121{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#btn121:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn122{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn122:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+#d13{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d13 > img{
+    width: 80%;
+    height: 60%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p13{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span13{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn131{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+}
+#btn131:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn132{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn132:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+#d14{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d14 > img{
+    width: 80%;
+    height: 60%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p14{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span14{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn141{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+}
+#btn141:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn142{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn142:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+#d15{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d15 > img{
+    width: 80%;
+    height: 50%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p15{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span15{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn151{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#btn151:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn152{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn152:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+
+/* earpods */
+
+
+#d16{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d16 > img{
+    width: 80%;
+    height: 50%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p16{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span16{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn161{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#btn161:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn162{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn162:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+
+#d17{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d17 > img{
+    width: 80%;
+    height: 50%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p17{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span17{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn171{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#btn171:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn172{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn172:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+#d18{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d18 > img{
+    width: 80%;
+    height: 50%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p18{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span18{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn181{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#btn181:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn182{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn182:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+
+
+
+#d19{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d19 > img{
+    width: 80%;
+    height: 50%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p19{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span19{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn191{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#btn191:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn192{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn192:hover{
+    color: aqua;
+    background-color: black;
+}
+
+
+
+
+
+#d20{
+    background-color:blanchedalmond;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#d20 > img{
+    width: 80%;
+    height: 50%;
+    padding-left: 10px;
+    margin: 10px;
+
+
+}
+#p20{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+#span20{
+    display:block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#btn201{
+    color: rgb(252, 252, 252);
+    background-color:brown;
+    border:2px solid rgb(2, 1, 1);
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#btn201:hover{
+    color: aqua;
+    background-color: black;
+}
+
+#btn202{
+    color: rgb(250, 248, 248);
+    background-color:brown;
+    border:2px solid black;
+    margin-left: 40px;
+}
+#btn202:hover{
+    color: aqua;
+    background-color: black;
+}
